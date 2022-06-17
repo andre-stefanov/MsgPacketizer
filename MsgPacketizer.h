@@ -59,7 +59,7 @@
 #endif  // have libstdc++11
 
 #define PACKETIZER_USE_INDEX_AS_DEFAULT
-#define PACKETIZER_USE_CRC_AS_DEFAULT
+// #define PACKETIZER_USE_CRC_AS_DEFAULT
 
 #include "MsgPacketizer/util/MsgPack/MsgPack/util/DebugLog/DebugLog.h"
 #ifdef MSGPACKETIZER_DEBUGLOG_ENABLE
